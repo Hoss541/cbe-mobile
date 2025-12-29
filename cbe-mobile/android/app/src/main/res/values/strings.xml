@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Certified Bully Exchange</string>
+    <string name="title_activity_main">Certified Bully Exchange</string>
+    <string name="package_name">com.certifiedbullyexchange.app</string>
+    <string name="custom_url_scheme">com.certifiedbullyexchange.app</string>
+</resources>
