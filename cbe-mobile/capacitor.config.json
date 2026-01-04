@@ -1,10 +1,9 @@
 {
-  "appId": "com.certifiedbullyexchange.app",
+  "appId": "org.certifiedbullyexchange.app",
   "appName": "Certified Bully Exchange",
   "webDir": "dist",
-  "plugins": {
-    "SplashScreen": {
-      "launchAutoHide": false
-    }
+  "server": {
+    "url": "https://certifiedbullyexchange.org",
+    "cleartext": false
   }
 }
